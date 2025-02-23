@@ -1,0 +1,7 @@
+gradio>=4.0.0
+opencv-python-headless>=4.5.0
+numpy>=1.21.0
+svgtrace>=1.0.1  # Альтернативная библиотека
+fastapi>=0.95.0
+uvicorn>=0.20.0
+python-multipart>=0.0.6
