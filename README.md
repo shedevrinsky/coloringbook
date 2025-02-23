@@ -15,5 +15,5 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/shedevrinsky/icoloringbook.git
+git clone https://github.com/shedevrinsky/coloringbook.git
 cd image-to-svg-converter
