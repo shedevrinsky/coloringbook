@@ -16,4 +16,6 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/shedevrinsky/coloringbook.git
-cd image-to-svg-converter
+cd coloringbook
+pip install -r requirements.txt
+python main.py
